@@ -1,6 +1,6 @@
-img{
+.logo{
     width: 80px;
 }
-span{
+.login{
     color: var(--primary);
 }

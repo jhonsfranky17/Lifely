@@ -4,14 +4,21 @@ padding: 20px;
 border-radius: 10px;
 font-size: 15px;
 font-weight: 600;
+cursor: pointer;
 }
 .contained{
     color: whitesmoke;
     border: none;
     background-color: var(--primary);
 }
+.contained:hover{
+    background-color: #619c83;
+}
 .outlined{
     color: var(--primary);
     background: transparent;
     border: 1px solid var(--primary);
+}
+.outlined:hover{
+    background-color: rgb(252, 246, 246);
 }
