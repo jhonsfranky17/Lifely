@@ -1,0 +1,10 @@
+.sub{
+    font-size: 30px;
+    font-weight: 600;
+}
+.green{
+    color: var(--primary);
+}
+.white{
+    color: var(--secondary);
+}

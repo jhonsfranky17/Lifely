@@ -1,0 +1,10 @@
+.wrapper{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}

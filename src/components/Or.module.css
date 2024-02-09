@@ -1,0 +1,16 @@
+.wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+}
+.line{
+    flex: 1;
+    height: 1px;
+    background-color: rgb(184, 179, 179);
+}
+.text{
+    color: rgb(163, 160, 160);
+    border: 5px solid transparent;
+}
